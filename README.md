@@ -9,7 +9,7 @@ Currently, as a Software Engineering Fellow at Headstarter, I’m working on AI-
 
 ## Luis E. Aviles Fernandez
 
-Hi, I’m Luis E. Avilés Fernández. I’m a Computer Science major at the University of Puerto Rico, Rio Piedras campus, graduating in December 2024. My true passion lies in Data Science, Machine Learning, and Data Analytics, which I’ve been able to explore through my academic journey and professional experiences.
+I’m Luis E. Avilés Fernández. I’m a Computer Science major at the University of Puerto Rico, Rio Piedras campus, graduating in December 2024. My true passion lies in Data Science, Machine Learning, and Data Analytics, which I’ve been able to explore through my academic journey and professional experiences.
 
 During my internship at Eli Lilly & Company, I worked with R to analyze complex datasets, providing insights that had a real impact on the company’s projects. It was a challenging yet rewarding experience that solidified my interest in data-driven decision-making.
 
