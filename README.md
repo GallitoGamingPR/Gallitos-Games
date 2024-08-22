@@ -7,7 +7,7 @@ I’m Ricardo A. Fernández, a Computer Science student at the University of Pue
 
 Currently, as a Software Engineering Fellow at Headstarter, I’m working on AI-based projects like a Pantry Tracker and an AI Customer Support Chat. My previous fellowship at Bloomberg gave me the chance to design a message queue system using RabbitMQ and deepen my understanding of core Python concepts. I’m always eager to learn and apply my skills to solve complex problems and make a meaningful impact.
 
-## Luis Aviles
+## Luis E. Aviles Fernandez
 
 Hi, I’m Luis E. Avilés Fernández. I’m a Computer Science major at the University of Puerto Rico, Rio Piedras campus, graduating in December 2024. My true passion lies in Data Science, Machine Learning, and Data Analytics, which I’ve been able to explore through my academic journey and professional experiences.
 
