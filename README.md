@@ -15,4 +15,10 @@ During my internship at Eli Lilly & Company, I worked with R to analyze complex 
 
 I’ve also worked on exciting projects like developing a basketball shot tracker using YOLOv8. In addition to my professional interests, I’m passionate about video games, especially first-person shooters like Call of Duty and Overwatch. I also enjoy immersive single-player games like Elden Ring, where I appreciate the deep storytelling and complex gameplay mechanics.
 
-## Andres Rosner
+## Andres M. Rosner Ortiz
+
+My name is Andres M. Rosner Ortiz a Computer Science major at University of Puerto Rico with a passion for game development and cybersecurity. I have done research at the university with professor Patricia Ordoñez on a post graduate doctorate project called Kavita Project, where we were developing a voice interface for programming to help a student called Kavita with spinal muscular atrophy be able to program easier.
+
+My participation in this project included creating various code snipets in C and C++ which were used to teach the voice recognizing software the method the participants read the snipets. I also worked on other projects, such as creating websites for customers. 
+
+My hobbies are lifting weights at the gym and playing video games, my favorite games are competitive shooters and story driven RPGs, such as CS2, Elden Ring and Fallout.
